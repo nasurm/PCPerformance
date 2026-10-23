@@ -1,0 +1,42 @@
+{
+  "fortnite": {
+    "id": "publisher-fortnite",
+    "name": "Fortnite",
+    "provider": "Epic Games support",
+    "fetchedAt": "2026-09-21T00:00:00Z",
+    "snapshot": true,
+    "minimum": "Processor: Intel Core i3-3225\nGraphics: Intel HD 4000 or AMD Radeon Vega 8\nMemory: 8 GB RAM\nOS: Windows 10 22H2 64-bit or Windows 10 Enterprise 21H2 64-bit",
+    "recommended": "Processor: Intel Core i5-7300U or AMD Ryzen 3 3300U\nGraphics: NVIDIA GTX 960 or AMD R9 280 (2 GB VRAM)\nMemory: 16 GB RAM\nOS: Windows 10/11 64-bit\nStorage: NVMe SSD\nAdditional Notes: Epic Quality is a separate target: RTX 3070 / RX 6700 XT, 8 GB VRAM, i7-8700 / Ryzen 7 3700X, 16 GB RAM, NVMe SSD. Tournament security requirements are not tested by Radar.",
+    "source": "https://www.epicgames.com/help/en-US/c-202300000001636/c-202300000001690/a202300000012731"
+  },
+  "rocketleague": {
+    "id": "publisher-rocketleague",
+    "name": "Rocket League",
+    "provider": "Epic Games support",
+    "fetchedAt": "2026-09-21T00:00:00Z",
+    "snapshot": true,
+    "minimum": "Processor: 2.5 GHz Dual Core\nGraphics: NVIDIA GeForce GTX 760 or AMD Radeon R9 270X\nMemory: 4 GB RAM\nOS: Windows 7 64-bit or newer (publisher listing; verify current launcher support)\nDirectX: 11\nStorage: 20 GB available space",
+    "recommended": "Processor: 3.0+ GHz Quad Core\nGraphics: NVIDIA GeForce GTX 1060 or AMD Radeon RX 470\nMemory: 8 GB RAM\nOS: Windows 7 64-bit or newer (publisher listing; verify current launcher support)\nDirectX: 11\nStorage: 20 GB available space",
+    "source": "https://www.epicgames.com/help/en-US/c-Category_RocketLeague/what-are-the-system-requirements-for-rocket-league-a000084383"
+  },
+  "fallguys": {
+    "id": "publisher-fallguys",
+    "recommended": "Processor: Intel Core i5 or AMD equivalent\nGraphics: NVIDIA GTX 660 or AMD Radeon HD 7950\nMemory: 8 GB RAM\nOS: Windows 10 64-bit\nStorage: 2 GB available space",
+    "source": "https://store.epicgames.com/p/fall-guys",
+    "snapshot": true,
+    "name": "Fall Guys",
+    "provider": "Epic Games Store",
+    "minimum": "Processor: Intel Core i5 or AMD equivalent\nGraphics: NVIDIA GTX 660 or AMD Radeon HD 7950\nMemory: 8 GB RAM\nOS: Windows 10 64-bit\nStorage: 2 GB available space",
+    "fetchedAt": "2026-09-21T00:00:00Z"
+  },
+  "yoloex": {
+    "id": "publisher-yoloex",
+    "recommended": "",
+    "source": "https://yolo-ex.itch.io/yolo-ex",
+    "snapshot": true,
+    "name": "Yolo.ex",
+    "provider": "Developer on itch.io",
+    "minimum": "Processor: Intel Core i7 or AMD Ryzen 5 1600X\nGraphics: NVIDIA GeForce RTX 2060 or AMD Radeon RX 580\nMemory: 16 GB RAM\nOS: Windows 10 or later 64-bit\nStorage: Around 10 GB free disk space\nAdditional Notes: Developer requirements are for an in-development build. The listed alternative GPUs differ substantially; validate with an actual run.",
+    "fetchedAt": "2026-09-21T00:00:00Z"
+  }
+}

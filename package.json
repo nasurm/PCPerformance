@@ -1,0 +1,7 @@
+{
+  "name": "pc-performance-radar",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "start": "node server.js", "test": "node --test tests/analysis.test.js" },
+  "engines": { "node": ">=20" }
+}
